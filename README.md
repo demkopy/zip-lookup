@@ -22,7 +22,7 @@
 #### Для Користувачів (простий спосіб)
 
 1.  Перейдіть на сторінку **[Releases](https://github.com/denkopy/zip-lookup/releases)** справа на головній сторінці репозиторію.
-2.  Завантажте останній файл `LocationLookup.exe` з розділу "Assets".
+2.  Завантажте останній файл `LocationLookup.exe`.
 3.  Запустіть завантажений файл. Програма з'явиться в системному треї.
 
 #### Для Розробників (якщо ви хочете змінити код)
@@ -87,7 +87,7 @@ pyinstaller --onefile --windowed --add-data "assets/icon.png;assets" --name Loca
 #### For Users (Simple Way)
 
 1.  Go to the **[Releases](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/denkopy/zip-lookup/releases)** page on the right side of the main repository page.
-2.  Download the latest `LocationLookup.exe` file from the "Assets" section.
+2.  Download the latest `LocationLookup.exe` file.
 3.  Run the downloaded file. The application will appear in your system tray.
 
 #### For Developers (If you want to modify the code)
